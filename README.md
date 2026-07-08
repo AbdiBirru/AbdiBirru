@@ -1,6 +1,6 @@
 # Hi, I'm Abdi 👋
 
-![Banner](banner.png)
+![Banner](file_00000000610471f4b3461fb380ac8b40.png)
 
 ## About Me
 
